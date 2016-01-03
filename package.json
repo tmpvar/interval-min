@@ -1,0 +1,29 @@
+{
+  "name": "interval-min",
+  "version": "0.0.0",
+  "description": "compute MIN of two intervals",
+  "main": "interval-min.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmpvar/interval-min.git"
+  },
+  "keywords": [
+    "interval",
+    "min",
+    "roots",
+    "root",
+    "finding"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-min/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-min#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
