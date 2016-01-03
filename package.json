@@ -1,6 +1,6 @@
 {
   "name": "interval-min",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "compute MIN of two intervals",
   "main": "interval-min.js",
   "scripts": {
